@@ -5,7 +5,7 @@
       "setup": "g++ -o a.out ./Homework/HW01/hw01-2-fix-bug.cpp",
       "run": "./a.out",
       "input": "10",
-      "output": "Hello, I'm Javis (RMUTL-Version).\r\nThis is my first time to coding with C language.\r\nToday is my birthday.\r\nSay \\\"Happy Birthday\\\" to me.",
+      "output": "Hello, I'm Javis (RMUTL-Version).\\n\r\nThis is my first time to coding with C language.\\n\r\nToday is my birthday.\\n\r\nSay \\\"Happy Birthday\\\" to me.",
       "comparison": "included",
       "timeout": 10,
       "points": 1
