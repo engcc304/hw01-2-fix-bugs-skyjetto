@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": 1
+    },
+    {
+      "name": "Display Only",
+      "setup": "g++ -o a.out ./Homework/HW01/hw01-2-fix-bug.cpp",
+      "run": "./a.out",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 1
     }
   ]
 }
