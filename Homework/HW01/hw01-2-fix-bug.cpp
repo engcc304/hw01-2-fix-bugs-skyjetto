@@ -7,5 +7,5 @@ int main() {
     printf( "This is my first time to coding with C language.\n" ) ;
     printf( "Today is my birthday.\n" ) ;
     printf( "Say \"Happy Birthday\" to me." ) ;
-    return '0' ;
+    return 0 ;
 }
