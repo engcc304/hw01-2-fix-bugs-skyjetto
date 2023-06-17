@@ -1,7 +1,7 @@
 {
   "tests": [
     {
-      "name": "Fix bugs &#38; display",
+      "name": "Fix bugs and display",
       "setup": "g++ -o a.out ./Homework/HW01/hw01-2-fix-bug.cpp",
       "run": "./a.out",
       "input": "",
