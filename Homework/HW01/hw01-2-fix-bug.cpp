@@ -3,9 +3,11 @@
 int main() { 
     int i = 0 ;
     scanf("%d", &i) ;
-    printf( "Hello, I'm Javis (RMUTL-Version).\n" ) ;
-    printf( "This is my first time to coding with C language.\n" ) ;
-    printf( "Today is my birthday.\n" ) ;
-    printf( "Say \"Happy Birthday\" to me." ) ;
+    // printf( "Hello, I'm Javis (RMUTL-Version).\n" ) ;
+    // printf( "This is my first time to coding with C language.\n" ) ;
+    // printf( "Today is my birthday.\n" ) ;
+    // printf( "Say \"Happy Birthday\" to me." ) ;
+
+    printf( "This is RMUTL." ) ;
     return 0 ;
 }
