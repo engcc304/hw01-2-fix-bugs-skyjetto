@@ -8,6 +8,7 @@ int main() {
     // printf( "Today is my birthday.\n" ) ;
     // printf( "Say \"Happy Birthday\" to me." ) ;
 
-    printf( "This is RMUTL." ) ;
+    printf( "This is RMUTL.\n" ) ;
+    printf( "555" ) ;
     return 0 ;
 }
